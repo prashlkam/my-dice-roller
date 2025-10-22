@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Dice Roller",
+  "description": "A visually appealing web application that simulates rolling one, two, or multiple dice. It features a history tracker for each rolling mode, with persistent history for the premium multi-dice feature.",
+  "requestFramePermissions": []
+}
